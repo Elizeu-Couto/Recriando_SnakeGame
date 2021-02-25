@@ -1,0 +1,15 @@
+body {
+    width: 95%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:#222;
+    color: lawngreen;
+   
+}
+
+#snake {
+    border: 10px solid rgb(112, 23, 23);
+}
